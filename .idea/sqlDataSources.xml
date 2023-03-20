@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="91a89b65-2c2a-41ca-af74-31ffc46e1879" />
+          <option name="name" value="testdb" />
+          <option name="dbmsName" value="UNKNOWN" />
+          <option name="urls">
+            <array />
+          </option>
+          <option name="outPath" value="C:\Users\conta\Desktop\Programacion web" />
+          <option name="outLayout" value="File per object by schema.groovy" />
+          <option name="scopes">
+            <map>
+              <entry key="$USER_HOME$/Desktop/Programacion web" value="" />
+            </map>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
